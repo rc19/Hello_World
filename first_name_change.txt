@@ -2,4 +2,4 @@ Hello World.
 This is my first commit.
 And this is the first edit.
 
-LOLWA
+LOL
